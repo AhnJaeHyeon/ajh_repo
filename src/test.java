@@ -65,6 +65,8 @@ public class test {
 			mnt_Week = "";
 		}		
 		
+		String gitTest = "커밋 테스트할려고 추가함";
+		
 		System.out.println(mnt_Week);
 	}
 
