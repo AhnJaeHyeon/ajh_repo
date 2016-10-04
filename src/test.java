@@ -66,6 +66,7 @@ public class test {
 		}		
 		
 		String gitTest = "커밋 테스트할려고 추가함";
+		String gitTest = "커밋 & PUSH 테스트할려고 추가함";
 		
 		System.out.println(mnt_Week);
 	}
