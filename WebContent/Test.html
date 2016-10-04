@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html ng-app>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<script src="/js/angular.min.js">
+</script>
+<script>
+	function controller1($scope){
+		$scope.text='controller1';
+	}
+	function controller2($scope){
+		$scope.text='controller2';
+	}
+</script>
+
+</head>
+<body>
+
+<div ng-controller="controller1">
+	{{text}}
+</div>
+<div ng-controller="controller2">
+	{{text}}
+</div>
+
+</body>
+</html>

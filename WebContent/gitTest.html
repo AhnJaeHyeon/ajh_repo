@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<script src="/js/angular.min.js">
+</script>
+<script>
+
+var app = angular.module('app', []);
+
+app.controller('MainCtrl', function($scope) {
+  $scope.developers = [
+      {
+        name: "Jesus", country: "Spain"
+      },
+      {
+        name: "Dave", country: "Canada"
+      },
+      {
+        name: "Wesley", country: "USA"
+      },
+      {
+        name: "Krzysztof", country: "Poland"
+      }
+    ];
+});
+</script>
+<title>Insert title here</title>
+</head>
+<!-- <body ng-app="app" ng-controller="MainCtrl">
+	Hello,{{message}}
+  <div>Insert your name:</div>
+  <input type="text" ng-model="user.name" />
+  <h3>Echo: {{user.name}}</h3>
+  
+  
+</body> -->
+<body ng-app="app" ng-controller="MainCtrl">
+ <ul>
+   <li ng-repeat="person in developers">
+     {{person.name}} from {{person.country}}
+   </li>
+ </ul>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
