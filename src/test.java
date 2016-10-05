@@ -65,7 +65,12 @@ public class test {
 			mnt_Week = "";
 		}		
 		
-		String gitTest = "ÀÌ°Ç Å×½ºÆÃ";
+	/*	String gitTest = "master ºê·»Ä¡ Ä¿¹Ô";
+		String gitTest = "master ºê·»Ä¡ µÎ¹øÂ° Ä¿¹Ô"; 
+		String gitTest = "master ºê·»Ä¡ µÎ¹øÂ° Ä¿¹Ô"; 
+		String gitTest = "master ºê·»Ä¡ µÎ¹øÂ° Ä¿¹Ô";*/
+		
+		String gitrr = "testing";
 		
 		System.out.println(mnt_Week);
 	}
