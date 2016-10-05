@@ -77,7 +77,7 @@ public class test {
 		String gitrr = "마스터 커밋";
 		String gitrr = "마스터 커밋";
 		String gitrr = "마스터 커밋";
-		String gitTest = "커밋 테스트할려고 추가함";
+		String gitTest = "커밋 테스트할려고 추가함11";
 		
 		System.out.println(mnt_Week);
 	}
