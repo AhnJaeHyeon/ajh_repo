@@ -72,6 +72,7 @@ public class test {
 
 		
 		String gitrr = "testing";
+		String gitrr = "testing";
 		
 		String gitrr = "마스터 커밋";
 		String gitrr = "마스터 커밋";
