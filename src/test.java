@@ -71,6 +71,7 @@ public class test {
 		String gitTest = "master ºê·»Ä¡ µÎ¹øÂ° Ä¿¹Ô";*/
 		
 		String gitrr = "testing";
+		String gitrr = "testing";
 		
 		System.out.println(mnt_Week);
 	}
