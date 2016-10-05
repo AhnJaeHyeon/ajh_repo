@@ -70,6 +70,7 @@ public class test {
 		String gitTest = "브런치 테스트";
 		String gitTest = "브런치 테스트2";
 		String gitTest = "testtesting 에서 커밋;
+		String gitTest = "testtesting 수정";
 		
 		System.out.println(mnt_Week);
 	}
