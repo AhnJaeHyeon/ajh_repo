@@ -65,12 +65,7 @@ public class test {
 			mnt_Week = "";
 		}		
 		
-		String gitTest = "커밋 테스트할려고 추가함";
-		String gitTest = "커밋 & PUSH 테스트할려고 추가함";
-		String gitTest = "브런치 테스트";
-		String gitTest = "브런치 테스트2";
-		String gitTest = "testtesting 에서 커밋;
-		String gitTest = "testtesting 수정";
+		String gitTest = "이건 테스팅";
 		
 		System.out.println(mnt_Week);
 	}
