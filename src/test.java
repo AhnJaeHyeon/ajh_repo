@@ -73,6 +73,8 @@ public class test {
 		
 		String gitrr = "testing";
 		
+		String gitrr = "마스터 커밋";
+		
 		System.out.println(mnt_Week);
 	}
 
