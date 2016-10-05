@@ -66,7 +66,7 @@ public class test {
 		}		
 		
 		String gitTest = "master ºê·»Ä¡ Ä¿¹Ô";
-		String gitTest = "master ºê·»Ä¡ µÎ¹øÂ° Ä¿¹Ô";
+		String gitTest = "master ºê·»Ä¡ µÎ¹øÂ° Ä¿¹Ô"; 
 		
 		System.out.println(mnt_Week);
 	}
